@@ -1,1 +1,1 @@
-# LC-organization-management-service
+# LC-AUTH-SERVICE
