@@ -31,6 +31,8 @@ Este microservicio gestiona organizaciones y usuarios asociados.
     docker run -p 8000:8000 org_service
     ```
 
+### Se puede comprobar su funcionamiento en local accediendo a 127.0.0.0:8000
+
 ## Contribución
 
 SOON.
