@@ -14,7 +14,7 @@ Este microservicio gestiona organizaciones y usuarios asociados.
 
 1. Clonar el repositorio:
    ```
-   git clone https://github.com/tuusuario/gestion-organizaciones.git
+   git clone https://github.com/AlfredOnGitHub/gestion-organizaciones.git
    cd gestion-organizaciones
     ```
 2. Configurar las variables de entorno:
