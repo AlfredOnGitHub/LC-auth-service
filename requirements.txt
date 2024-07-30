@@ -2,3 +2,4 @@ django
 djangorestframework
 gunicorn==20.1
 python-dotenv
+pillow

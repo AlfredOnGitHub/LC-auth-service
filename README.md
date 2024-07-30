@@ -1,4 +1,4 @@
-# LC-ORG-SERVICE
+# LC-AUTH-SERVICE
 
 Microservicio de Gestión de Organizaciones
 
